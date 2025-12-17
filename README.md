@@ -149,7 +149,7 @@ Frontend animations + solid backend logic = ❤️
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VKM112&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VKM112&theme=tokyonight" height="165" />
+<img src="https://streak-stats.demolab.com?user=VKM112&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
