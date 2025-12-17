@@ -157,14 +157,6 @@ Frontend animations + solid backend logic = ❤️
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=VKM112&theme=tokyonight&hide_border=false"
-    height="165"
-    alt="GitHub streak stats"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://komarev.com/ghpvc/?username=VKM112&label=Profile%20Views&color=0e75b6&style=flat"
     alt="Profile views"
   />
